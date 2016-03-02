@@ -20,3 +20,15 @@ sudo nano /etc/crontab
 ```
 
 Если хочется запускать не каждую минуту, а например каждые 5 минут, тогда нужно исправить «1» на «5».
+
+## Author
+
+Arthur Garegnyan aka Berserkr
+
+* Email: arthurgareginyan@gmail.com
+
+* GitHub: [https://github.com/ArthurGareginyan/](https://github.com/ArthurGareginyan/)
+
+* My Website: [http://www.arthurgareginyan.com](http://www.arthurgareginyan.com)
+
+* Donation Page: [http://www.arthurgareginyan.com/donate.html](http://www.arthurgareginyan.com/donate.html)
