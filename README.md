@@ -21,14 +21,21 @@ sudo nano /etc/crontab
 
 Если хочется запускать не каждую минуту, а например каждые 5 минут, тогда нужно исправить «1» на «5».
 
+## License
+
+This script is licensed under the [GNU General Public License, version 3 (GPLv3)](http://www.gnu.org/licenses/gpl-3.0.html) and is distributed free of charge.
+
+Commercial licensing (e.g. for projects that can’t use an open-source license) is available upon request.
+
+
 ## Author
 
-Arthur Garegnyan aka Berserkr
+Arthur Garegnyan
 
 * Email: arthurgareginyan@gmail.com
 
 * GitHub: [https://github.com/ArthurGareginyan/](https://github.com/ArthurGareginyan/)
 
-* My Website: [http://www.arthurgareginyan.com](http://www.arthurgareginyan.com)
+* Website: [http://www.arthurgareginyan.com](http://www.arthurgareginyan.com)
 
-* Donation Page: [http://www.arthurgareginyan.com/donate.html](http://www.arthurgareginyan.com/donate.html)
+* Donation: [http://www.arthurgareginyan.com/donate.html](http://www.arthurgareginyan.com/donate.html)
